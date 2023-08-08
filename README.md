@@ -18,10 +18,13 @@ Import the package:
 **Analysis**
 
 Load the H.elongata_model11.xml file
+
 `model = cobra.io.read_sbml_model("H.elongata_model11.xml")`
 
 Run Flux balance analysis 
+
 `solution = model.optimize()`
+
 `print(solution)fba_solution = flux_analysis.optimize_minimal_flux(model)`
 
 Further specific analyses can be run by following the documentation: https://cobrapy.readthedocs.io/en/latest/simulating.html
