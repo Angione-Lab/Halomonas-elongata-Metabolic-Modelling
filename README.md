@@ -1,7 +1,7 @@
 # _Halomonas elongata_ Metabolic Modelling
 Enuh et al., "Genome-scale metabolic modelling of _Halomonas elongata_ 153B explains polyhydroxyalkanoates and ectoine biosynthesis"
 
-This repository contains the genome-scale metabolic network model for _H. elongata_ in XML format. The model can be used to study the metabolic capabilities of this organism and perform various analyses. Below are instructions on how to use the XML model and run some analyses.
+This repository contains the genome-scale metabolic network model for _H. elongata_, provided in XML format. The model can be used to study the metabolic capabilities of this organism and perform various analyses. Below are instructions on how to use the XML model and run some analyses.
 
 <br/><br/>
 **Requirements**
